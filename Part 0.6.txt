@@ -1,0 +1,11 @@
+       User
+        |
+       SPA
+        |
+    Input Focus
+        |
+     Type Text
+        |
+      Save
+        |
+     New Note
